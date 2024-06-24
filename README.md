@@ -1,6 +1,10 @@
 ![alt text](./assets/header_logo.png)
 # PDF Text Extractor
 
-Select a PDF file or an image with text that you want to extract. You can save the result as a text file. For pathology reports-Extracting text according to the structure of a pathological report.
+Select a PDF file or an image with text that you want to extract.  
+You can save the result as a text file.  
+For pathology reports-Extracting text according to the structure of a pathological report.
 
 ![Pathology example](pathology_demo_gif.gif)
+
+###### The structure of the pathological report was based on the common structure at Soroka Hospital.
